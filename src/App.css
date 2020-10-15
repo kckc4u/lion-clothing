@@ -8,3 +8,7 @@ a {
   color: black;
   text-transform: uppercase;
 } 
+
+* {
+  box-sizing: border-box;
+}
